@@ -1,2 +1,3 @@
-# docs
-Documentation for my projects
+# Docs
+
+Documentation for my projects written in MDX
